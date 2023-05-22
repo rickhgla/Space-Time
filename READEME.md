@@ -1,4 +1,3 @@
-<p>
-  <img src=".github/preview.png" alt="Demonstração do projeto" wiidth="100% />
-  
+<p aling="center">
+  <img src=".github/preview.png" alt="Demonstração do projeto" width="100%" />
 </p>
